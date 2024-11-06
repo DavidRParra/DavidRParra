@@ -1,4 +1,9 @@
-## Hi there, my name is David Parra 👋
+## Hi there! My name is David Parra 👋
+
+## About me
+I started programming because I thought it was fun and that I could do many things. 
+To this day I still find the world of programming fun, after years in this world of development.
+I like to automate tasks, create web pages and teach others what I have learned so they can see the fun in this world.
 
 <!--
 **DavidRParra/DavidRParra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
